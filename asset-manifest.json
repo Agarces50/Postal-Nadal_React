@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PostalNevada/static/css/main.82b3dec5.css",
+    "main.js": "/PostalNevada/static/js/main.3c9e2c9d.js",
+    "static/js/787.a7fd2a01.chunk.js": "/PostalNevada/static/js/787.a7fd2a01.chunk.js",
+    "static/media/fondoPostal.jpg": "/PostalNevada/static/media/fondoPostal.f12933ad5870d0e94bde.jpg",
+    "index.html": "/PostalNevada/index.html",
+    "main.82b3dec5.css.map": "/PostalNevada/static/css/main.82b3dec5.css.map",
+    "main.3c9e2c9d.js.map": "/PostalNevada/static/js/main.3c9e2c9d.js.map",
+    "787.a7fd2a01.chunk.js.map": "/PostalNevada/static/js/787.a7fd2a01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82b3dec5.css",
+    "static/js/main.3c9e2c9d.js"
+  ]
+}
